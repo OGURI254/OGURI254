@@ -1,0 +1,6 @@
+LOCAL DEPOSITORY
+
+pwd----
+
+git initialize
+ls means list
